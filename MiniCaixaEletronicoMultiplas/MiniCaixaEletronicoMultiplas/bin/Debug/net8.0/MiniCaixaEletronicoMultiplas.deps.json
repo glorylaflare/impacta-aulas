@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MiniCaixaEletronicoMultiplas/1.0.0": {
+        "runtime": {
+          "MiniCaixaEletronicoMultiplas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MiniCaixaEletronicoMultiplas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\m.a.oliveira.junior\Source\Repos\MiniCaixaEletronicoMultiplas\MiniCaixaEletronicoMultiplas\obj\Debug\net8.0\MiniCaixaEletronicoMultiplas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.a.oliveira.junior\Source\Repos\MiniCaixaEletronicoMultiplas\MiniCaixaEletronicoMultiplas\obj\Debug\net8.0\MiniCaixaEletronicoMultiplas.AssemblyInfoInputs.cache
+C:\Users\m.a.oliveira.junior\Source\Repos\MiniCaixaEletronicoMultiplas\MiniCaixaEletronicoMultiplas\obj\Debug\net8.0\MiniCaixaEletronicoMultiplas.AssemblyInfo.cs
+C:\Users\m.a.oliveira.junior\Source\Repos\MiniCaixaEletronicoMultiplas\MiniCaixaEletronicoMultiplas\obj\Debug\net8.0\MiniCaixaEletronicoMultiplas.csproj.CoreCompileInputs.cache
+C:\Users\m.a.oliveira.junior\Source\Repos\MiniCaixaEletronicoMultiplas\MiniCaixaEletronicoMultiplas\bin\Debug\net8.0\MiniCaixaEletronicoMultiplas.exe
+C:\Users\m.a.oliveira.junior\Source\Repos\MiniCaixaEletronicoMultiplas\MiniCaixaEletronicoMultiplas\bin\Debug\net8.0\MiniCaixaEletronicoMultiplas.deps.json
+C:\Users\m.a.oliveira.junior\Source\Repos\MiniCaixaEletronicoMultiplas\MiniCaixaEletronicoMultiplas\bin\Debug\net8.0\MiniCaixaEletronicoMultiplas.runtimeconfig.json
+C:\Users\m.a.oliveira.junior\Source\Repos\MiniCaixaEletronicoMultiplas\MiniCaixaEletronicoMultiplas\bin\Debug\net8.0\MiniCaixaEletronicoMultiplas.dll
+C:\Users\m.a.oliveira.junior\Source\Repos\MiniCaixaEletronicoMultiplas\MiniCaixaEletronicoMultiplas\bin\Debug\net8.0\MiniCaixaEletronicoMultiplas.pdb
+C:\Users\m.a.oliveira.junior\Source\Repos\MiniCaixaEletronicoMultiplas\MiniCaixaEletronicoMultiplas\obj\Debug\net8.0\MiniCaixaEletronicoMultiplas.dll
+C:\Users\m.a.oliveira.junior\Source\Repos\MiniCaixaEletronicoMultiplas\MiniCaixaEletronicoMultiplas\obj\Debug\net8.0\refint\MiniCaixaEletronicoMultiplas.dll
+C:\Users\m.a.oliveira.junior\Source\Repos\MiniCaixaEletronicoMultiplas\MiniCaixaEletronicoMultiplas\obj\Debug\net8.0\MiniCaixaEletronicoMultiplas.pdb
+C:\Users\m.a.oliveira.junior\Source\Repos\MiniCaixaEletronicoMultiplas\MiniCaixaEletronicoMultiplas\obj\Debug\net8.0\MiniCaixaEletronicoMultiplas.genruntimeconfig.cache
+C:\Users\m.a.oliveira.junior\Source\Repos\MiniCaixaEletronicoMultiplas\MiniCaixaEletronicoMultiplas\obj\Debug\net8.0\ref\MiniCaixaEletronicoMultiplas.dll

@@ -1,0 +1,14 @@
+C:\Users\m.a.oliveira.junior\Source\Repos\MiniCaixaEletronico\MiniCaixaEletronico\bin\Debug\net8.0\MiniCaixaEletronico.exe
+C:\Users\m.a.oliveira.junior\Source\Repos\MiniCaixaEletronico\MiniCaixaEletronico\bin\Debug\net8.0\MiniCaixaEletronico.deps.json
+C:\Users\m.a.oliveira.junior\Source\Repos\MiniCaixaEletronico\MiniCaixaEletronico\bin\Debug\net8.0\MiniCaixaEletronico.runtimeconfig.json
+C:\Users\m.a.oliveira.junior\Source\Repos\MiniCaixaEletronico\MiniCaixaEletronico\bin\Debug\net8.0\MiniCaixaEletronico.dll
+C:\Users\m.a.oliveira.junior\Source\Repos\MiniCaixaEletronico\MiniCaixaEletronico\bin\Debug\net8.0\MiniCaixaEletronico.pdb
+C:\Users\m.a.oliveira.junior\Source\Repos\MiniCaixaEletronico\MiniCaixaEletronico\obj\Debug\net8.0\MiniCaixaEletronico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.a.oliveira.junior\Source\Repos\MiniCaixaEletronico\MiniCaixaEletronico\obj\Debug\net8.0\MiniCaixaEletronico.AssemblyInfoInputs.cache
+C:\Users\m.a.oliveira.junior\Source\Repos\MiniCaixaEletronico\MiniCaixaEletronico\obj\Debug\net8.0\MiniCaixaEletronico.AssemblyInfo.cs
+C:\Users\m.a.oliveira.junior\Source\Repos\MiniCaixaEletronico\MiniCaixaEletronico\obj\Debug\net8.0\MiniCaixaEletronico.csproj.CoreCompileInputs.cache
+C:\Users\m.a.oliveira.junior\Source\Repos\MiniCaixaEletronico\MiniCaixaEletronico\obj\Debug\net8.0\MiniCaixaEletronico.dll
+C:\Users\m.a.oliveira.junior\Source\Repos\MiniCaixaEletronico\MiniCaixaEletronico\obj\Debug\net8.0\refint\MiniCaixaEletronico.dll
+C:\Users\m.a.oliveira.junior\Source\Repos\MiniCaixaEletronico\MiniCaixaEletronico\obj\Debug\net8.0\MiniCaixaEletronico.pdb
+C:\Users\m.a.oliveira.junior\Source\Repos\MiniCaixaEletronico\MiniCaixaEletronico\obj\Debug\net8.0\MiniCaixaEletronico.genruntimeconfig.cache
+C:\Users\m.a.oliveira.junior\Source\Repos\MiniCaixaEletronico\MiniCaixaEletronico\obj\Debug\net8.0\ref\MiniCaixaEletronico.dll

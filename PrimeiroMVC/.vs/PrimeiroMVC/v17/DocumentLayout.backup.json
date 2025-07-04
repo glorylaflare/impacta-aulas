@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\m.a.oliveira.junior\\Source\\Repos\\PrimeiroMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63F66098-CE40-421B-988C-D69972953D7B}|PrimeiroMVC\\PrimeiroMVC.csproj|c:\\users\\m.a.oliveira.junior\\source\\repos\\primeiromvc\\primeiromvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63F66098-CE40-421B-988C-D69972953D7B}|PrimeiroMVC\\PrimeiroMVC.csproj|solutionrelative:primeiromvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F66098-CE40-421B-988C-D69972953D7B}|PrimeiroMVC\\PrimeiroMVC.csproj|c:\\users\\m.a.oliveira.junior\\source\\repos\\primeiromvc\\primeiromvc\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F66098-CE40-421B-988C-D69972953D7B}|PrimeiroMVC\\PrimeiroMVC.csproj|solutionrelative:primeiromvc\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F66098-CE40-421B-988C-D69972953D7B}|PrimeiroMVC\\PrimeiroMVC.csproj|c:\\users\\m.a.oliveira.junior\\source\\repos\\primeiromvc\\primeiromvc\\views\\produtos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63F66098-CE40-421B-988C-D69972953D7B}|PrimeiroMVC\\PrimeiroMVC.csproj|solutionrelative:primeiromvc\\views\\produtos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F66098-CE40-421B-988C-D69972953D7B}|PrimeiroMVC\\PrimeiroMVC.csproj|c:\\users\\m.a.oliveira.junior\\source\\repos\\primeiromvc\\primeiromvc\\views\\produtos\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63F66098-CE40-421B-988C-D69972953D7B}|PrimeiroMVC\\PrimeiroMVC.csproj|solutionrelative:primeiromvc\\views\\produtos\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F66098-CE40-421B-988C-D69972953D7B}|PrimeiroMVC\\PrimeiroMVC.csproj|c:\\users\\m.a.oliveira.junior\\source\\repos\\primeiromvc\\primeiromvc\\views\\produtos\\clientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63F66098-CE40-421B-988C-D69972953D7B}|PrimeiroMVC\\PrimeiroMVC.csproj|solutionrelative:primeiromvc\\views\\produtos\\clientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F66098-CE40-421B-988C-D69972953D7B}|PrimeiroMVC\\PrimeiroMVC.csproj|c:\\users\\m.a.oliveira.junior\\source\\repos\\primeiromvc\\primeiromvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F66098-CE40-421B-988C-D69972953D7B}|PrimeiroMVC\\PrimeiroMVC.csproj|solutionrelative:primeiromvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Clientes.cshtml",
+              "DocumentMoniker": "C:\\Users\\m.a.oliveira.junior\\Source\\Repos\\PrimeiroMVC\\PrimeiroMVC\\Views\\Produtos\\Clientes.cshtml",
+              "RelativeDocumentMoniker": "PrimeiroMVC\\Views\\Produtos\\Clientes.cshtml",
+              "ToolTip": "C:\\Users\\m.a.oliveira.junior\\Source\\Repos\\PrimeiroMVC\\PrimeiroMVC\\Views\\Produtos\\Clientes.cshtml",
+              "RelativeToolTip": "PrimeiroMVC\\Views\\Produtos\\Clientes.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T18:20:30.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Detalhes.cshtml",
+              "DocumentMoniker": "C:\\Users\\m.a.oliveira.junior\\Source\\Repos\\PrimeiroMVC\\PrimeiroMVC\\Views\\Produtos\\Detalhes.cshtml",
+              "RelativeDocumentMoniker": "PrimeiroMVC\\Views\\Produtos\\Detalhes.cshtml",
+              "ToolTip": "C:\\Users\\m.a.oliveira.junior\\Source\\Repos\\PrimeiroMVC\\PrimeiroMVC\\Views\\Produtos\\Detalhes.cshtml",
+              "RelativeToolTip": "PrimeiroMVC\\Views\\Produtos\\Detalhes.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T18:12:48.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\m.a.oliveira.junior\\Source\\Repos\\PrimeiroMVC\\PrimeiroMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PrimeiroMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\m.a.oliveira.junior\\Source\\Repos\\PrimeiroMVC\\PrimeiroMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PrimeiroMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwCYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T18:06:24.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\m.a.oliveira.junior\\Source\\Repos\\PrimeiroMVC\\PrimeiroMVC\\Views\\Produtos\\Index.cshtml",
+              "RelativeDocumentMoniker": "PrimeiroMVC\\Views\\Produtos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\m.a.oliveira.junior\\Source\\Repos\\PrimeiroMVC\\PrimeiroMVC\\Views\\Produtos\\Index.cshtml",
+              "RelativeToolTip": "PrimeiroMVC\\Views\\Produtos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T18:01:10.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\m.a.oliveira.junior\\Source\\Repos\\PrimeiroMVC\\PrimeiroMVC\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "PrimeiroMVC\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\m.a.oliveira.junior\\Source\\Repos\\PrimeiroMVC\\PrimeiroMVC\\Controllers\\ProdutosController.cs*",
+              "RelativeToolTip": "PrimeiroMVC\\Controllers\\ProdutosController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T17:45:52.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\m.a.oliveira.junior\\Source\\Repos\\PrimeiroMVC\\PrimeiroMVC\\Program.cs",
+              "RelativeDocumentMoniker": "PrimeiroMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\m.a.oliveira.junior\\Source\\Repos\\PrimeiroMVC\\PrimeiroMVC\\Program.cs",
+              "RelativeToolTip": "PrimeiroMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T17:40:26.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

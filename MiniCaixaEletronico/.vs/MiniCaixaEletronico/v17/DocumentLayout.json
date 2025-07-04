@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\m.a.oliveira.junior\\Source\\Repos\\MiniCaixaEletronico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9F73D2-283E-460C-AC10-16FF923C7253}|MiniCaixaEletronico\\MiniCaixaEletronico.csproj|c:\\users\\m.a.oliveira.junior\\source\\repos\\minicaixaeletronico\\minicaixaeletronico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB9F73D2-283E-460C-AC10-16FF923C7253}|MiniCaixaEletronico\\MiniCaixaEletronico.csproj|solutionrelative:minicaixaeletronico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9F73D2-283E-460C-AC10-16FF923C7253}|MiniCaixaEletronico\\MiniCaixaEletronico.csproj|c:\\users\\m.a.oliveira.junior\\source\\repos\\minicaixaeletronico\\minicaixaeletronico\\data\\contarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB9F73D2-283E-460C-AC10-16FF923C7253}|MiniCaixaEletronico\\MiniCaixaEletronico.csproj|solutionrelative:minicaixaeletronico\\data\\contarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9F73D2-283E-460C-AC10-16FF923C7253}|MiniCaixaEletronico\\MiniCaixaEletronico.csproj|c:\\users\\m.a.oliveira.junior\\source\\repos\\minicaixaeletronico\\minicaixaeletronico\\minicaixaeletronico.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FB9F73D2-283E-460C-AC10-16FF923C7253}|MiniCaixaEletronico\\MiniCaixaEletronico.csproj|solutionrelative:minicaixaeletronico\\minicaixaeletronico.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9F73D2-283E-460C-AC10-16FF923C7253}|MiniCaixaEletronico\\MiniCaixaEletronico.csproj|c:\\users\\m.a.oliveira.junior\\source\\repos\\minicaixaeletronico\\minicaixaeletronico\\data\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB9F73D2-283E-460C-AC10-16FF923C7253}|MiniCaixaEletronico\\MiniCaixaEletronico.csproj|solutionrelative:minicaixaeletronico\\data\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9F73D2-283E-460C-AC10-16FF923C7253}|MiniCaixaEletronico\\MiniCaixaEletronico.csproj|c:\\users\\m.a.oliveira.junior\\source\\repos\\minicaixaeletronico\\minicaixaeletronico\\business\\contaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB9F73D2-283E-460C-AC10-16FF923C7253}|MiniCaixaEletronico\\MiniCaixaEletronico.csproj|solutionrelative:minicaixaeletronico\\business\\contaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Conta.cs",
+              "DocumentMoniker": "C:\\Users\\m.a.oliveira.junior\\Source\\Repos\\MiniCaixaEletronico\\MiniCaixaEletronico\\Data\\Conta.cs",
+              "RelativeDocumentMoniker": "MiniCaixaEletronico\\Data\\Conta.cs",
+              "ToolTip": "C:\\Users\\m.a.oliveira.junior\\Source\\Repos\\MiniCaixaEletronico\\MiniCaixaEletronico\\Data\\Conta.cs",
+              "RelativeToolTip": "MiniCaixaEletronico\\Data\\Conta.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T13:06:55.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContaService.cs",
+              "DocumentMoniker": "C:\\Users\\m.a.oliveira.junior\\Source\\Repos\\MiniCaixaEletronico\\MiniCaixaEletronico\\Business\\ContaService.cs",
+              "RelativeDocumentMoniker": "MiniCaixaEletronico\\Business\\ContaService.cs",
+              "ToolTip": "C:\\Users\\m.a.oliveira.junior\\Source\\Repos\\MiniCaixaEletronico\\MiniCaixaEletronico\\Business\\ContaService.cs",
+              "RelativeToolTip": "MiniCaixaEletronico\\Business\\ContaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T13:38:35.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\m.a.oliveira.junior\\Source\\Repos\\MiniCaixaEletronico\\MiniCaixaEletronico\\Data\\ContaRepositorio.cs",
+              "RelativeDocumentMoniker": "MiniCaixaEletronico\\Data\\ContaRepositorio.cs",
+              "ToolTip": "C:\\Users\\m.a.oliveira.junior\\Source\\Repos\\MiniCaixaEletronico\\MiniCaixaEletronico\\Data\\ContaRepositorio.cs",
+              "RelativeToolTip": "MiniCaixaEletronico\\Data\\ContaRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T13:27:24.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MiniCaixaEletronico",
+              "DocumentMoniker": "C:\\Users\\m.a.oliveira.junior\\Source\\Repos\\MiniCaixaEletronico\\MiniCaixaEletronico\\MiniCaixaEletronico.csproj",
+              "RelativeDocumentMoniker": "MiniCaixaEletronico\\MiniCaixaEletronico.csproj",
+              "ToolTip": "C:\\Users\\m.a.oliveira.junior\\Source\\Repos\\MiniCaixaEletronico\\MiniCaixaEletronico\\MiniCaixaEletronico.csproj",
+              "RelativeToolTip": "MiniCaixaEletronico\\MiniCaixaEletronico.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-04T13:05:19.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\m.a.oliveira.junior\\Source\\Repos\\MiniCaixaEletronico\\MiniCaixaEletronico\\Program.cs",
+              "RelativeDocumentMoniker": "MiniCaixaEletronico\\Program.cs",
+              "ToolTip": "C:\\Users\\m.a.oliveira.junior\\Source\\Repos\\MiniCaixaEletronico\\MiniCaixaEletronico\\Program.cs",
+              "RelativeToolTip": "MiniCaixaEletronico\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwCMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T12:10:53.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

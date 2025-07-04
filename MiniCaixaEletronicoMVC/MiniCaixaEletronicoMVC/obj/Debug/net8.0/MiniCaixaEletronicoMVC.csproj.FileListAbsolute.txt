@@ -1,0 +1,14 @@
+C:\Users\m.a.oliveira.junior\Source\Repos\MiniCaixaEletronicoMVC\MiniCaixaEletronicoMVC\bin\Debug\net8.0\MiniCaixaEletronicoMVC.exe
+C:\Users\m.a.oliveira.junior\Source\Repos\MiniCaixaEletronicoMVC\MiniCaixaEletronicoMVC\bin\Debug\net8.0\MiniCaixaEletronicoMVC.deps.json
+C:\Users\m.a.oliveira.junior\Source\Repos\MiniCaixaEletronicoMVC\MiniCaixaEletronicoMVC\bin\Debug\net8.0\MiniCaixaEletronicoMVC.runtimeconfig.json
+C:\Users\m.a.oliveira.junior\Source\Repos\MiniCaixaEletronicoMVC\MiniCaixaEletronicoMVC\bin\Debug\net8.0\MiniCaixaEletronicoMVC.dll
+C:\Users\m.a.oliveira.junior\Source\Repos\MiniCaixaEletronicoMVC\MiniCaixaEletronicoMVC\bin\Debug\net8.0\MiniCaixaEletronicoMVC.pdb
+C:\Users\m.a.oliveira.junior\Source\Repos\MiniCaixaEletronicoMVC\MiniCaixaEletronicoMVC\obj\Debug\net8.0\MiniCaixaEletronicoMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.a.oliveira.junior\Source\Repos\MiniCaixaEletronicoMVC\MiniCaixaEletronicoMVC\obj\Debug\net8.0\MiniCaixaEletronicoMVC.AssemblyInfoInputs.cache
+C:\Users\m.a.oliveira.junior\Source\Repos\MiniCaixaEletronicoMVC\MiniCaixaEletronicoMVC\obj\Debug\net8.0\MiniCaixaEletronicoMVC.AssemblyInfo.cs
+C:\Users\m.a.oliveira.junior\Source\Repos\MiniCaixaEletronicoMVC\MiniCaixaEletronicoMVC\obj\Debug\net8.0\MiniCaixaEletronicoMVC.csproj.CoreCompileInputs.cache
+C:\Users\m.a.oliveira.junior\Source\Repos\MiniCaixaEletronicoMVC\MiniCaixaEletronicoMVC\obj\Debug\net8.0\MiniCaixaEletronicoMVC.dll
+C:\Users\m.a.oliveira.junior\Source\Repos\MiniCaixaEletronicoMVC\MiniCaixaEletronicoMVC\obj\Debug\net8.0\refint\MiniCaixaEletronicoMVC.dll
+C:\Users\m.a.oliveira.junior\Source\Repos\MiniCaixaEletronicoMVC\MiniCaixaEletronicoMVC\obj\Debug\net8.0\MiniCaixaEletronicoMVC.pdb
+C:\Users\m.a.oliveira.junior\Source\Repos\MiniCaixaEletronicoMVC\MiniCaixaEletronicoMVC\obj\Debug\net8.0\MiniCaixaEletronicoMVC.genruntimeconfig.cache
+C:\Users\m.a.oliveira.junior\Source\Repos\MiniCaixaEletronicoMVC\MiniCaixaEletronicoMVC\obj\Debug\net8.0\ref\MiniCaixaEletronicoMVC.dll

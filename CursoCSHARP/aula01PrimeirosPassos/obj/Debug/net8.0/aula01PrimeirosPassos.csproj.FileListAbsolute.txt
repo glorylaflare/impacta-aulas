@@ -1,0 +1,14 @@
+C:\Users\m.a.oliveira.junior\Source\Repos\CursoCSHARP\aula01PrimeirosPassos\bin\Debug\net8.0\aula01PrimeirosPassos.exe
+C:\Users\m.a.oliveira.junior\Source\Repos\CursoCSHARP\aula01PrimeirosPassos\bin\Debug\net8.0\aula01PrimeirosPassos.deps.json
+C:\Users\m.a.oliveira.junior\Source\Repos\CursoCSHARP\aula01PrimeirosPassos\bin\Debug\net8.0\aula01PrimeirosPassos.runtimeconfig.json
+C:\Users\m.a.oliveira.junior\Source\Repos\CursoCSHARP\aula01PrimeirosPassos\bin\Debug\net8.0\aula01PrimeirosPassos.dll
+C:\Users\m.a.oliveira.junior\Source\Repos\CursoCSHARP\aula01PrimeirosPassos\bin\Debug\net8.0\aula01PrimeirosPassos.pdb
+C:\Users\m.a.oliveira.junior\Source\Repos\CursoCSHARP\aula01PrimeirosPassos\obj\Debug\net8.0\aula01PrimeirosPassos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.a.oliveira.junior\Source\Repos\CursoCSHARP\aula01PrimeirosPassos\obj\Debug\net8.0\aula01PrimeirosPassos.AssemblyInfoInputs.cache
+C:\Users\m.a.oliveira.junior\Source\Repos\CursoCSHARP\aula01PrimeirosPassos\obj\Debug\net8.0\aula01PrimeirosPassos.AssemblyInfo.cs
+C:\Users\m.a.oliveira.junior\Source\Repos\CursoCSHARP\aula01PrimeirosPassos\obj\Debug\net8.0\aula01PrimeirosPassos.csproj.CoreCompileInputs.cache
+C:\Users\m.a.oliveira.junior\Source\Repos\CursoCSHARP\aula01PrimeirosPassos\obj\Debug\net8.0\aula01PrimeirosPassos.dll
+C:\Users\m.a.oliveira.junior\Source\Repos\CursoCSHARP\aula01PrimeirosPassos\obj\Debug\net8.0\refint\aula01PrimeirosPassos.dll
+C:\Users\m.a.oliveira.junior\Source\Repos\CursoCSHARP\aula01PrimeirosPassos\obj\Debug\net8.0\aula01PrimeirosPassos.pdb
+C:\Users\m.a.oliveira.junior\Source\Repos\CursoCSHARP\aula01PrimeirosPassos\obj\Debug\net8.0\aula01PrimeirosPassos.genruntimeconfig.cache
+C:\Users\m.a.oliveira.junior\Source\Repos\CursoCSHARP\aula01PrimeirosPassos\obj\Debug\net8.0\ref\aula01PrimeirosPassos.dll
