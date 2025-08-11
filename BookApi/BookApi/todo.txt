@@ -1,0 +1,2 @@
+﻿- Fazer a doc
+- Ver se tem algo a mais para implementar/melhorar
