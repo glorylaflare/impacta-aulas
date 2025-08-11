@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\m.a.oliveira.junior\\Source\\Repos\\CursoCSHARP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E037B55-0058-4CF8-B479-048F3F7B3447}|aula01PrimeirosPassos\\aula01PrimeirosPassos.csproj|c:\\users\\m.a.oliveira.junior\\source\\repos\\cursocsharp\\aula01primeirospassos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E037B55-0058-4CF8-B479-048F3F7B3447}|aula01PrimeirosPassos\\aula01PrimeirosPassos.csproj|solutionrelative:aula01primeirospassos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3E037B55-0058-4CF8-B479-048F3F7B3447}|aula01PrimeirosPassos\\aula01PrimeirosPassos.csproj|c:\\users\\m.a.oliveira.junior\\source\\repos\\cursocsharp\\aula01primeirospassos\\apresentar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E037B55-0058-4CF8-B479-048F3F7B3447}|aula01PrimeirosPassos\\aula01PrimeirosPassos.csproj|solutionrelative:aula01primeirospassos\\apresentar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E037B55-0058-4CF8-B479-048F3F7B3447}|aula01PrimeirosPassos\\aula01PrimeirosPassos.csproj|c:\\users\\m.a.oliveira.junior\\source\\repos\\cursocsharp\\aula01primeirospassos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E037B55-0058-4CF8-B479-048F3F7B3447}|aula01PrimeirosPassos\\aula01PrimeirosPassos.csproj|solutionrelative:aula01primeirospassos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Apresentar.cs",
               "DocumentMoniker": "C:\\Users\\m.a.oliveira.junior\\Source\\Repos\\CursoCSHARP\\aula01PrimeirosPassos\\Apresentar.cs",
               "RelativeDocumentMoniker": "aula01PrimeirosPassos\\Apresentar.cs",
               "ToolTip": "C:\\Users\\m.a.oliveira.junior\\Source\\Repos\\CursoCSHARP\\aula01PrimeirosPassos\\Apresentar.cs",
               "RelativeToolTip": "aula01PrimeirosPassos\\Apresentar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-04T11:50:41.691Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\m.a.oliveira.junior\\Source\\Repos\\CursoCSHARP\\aula01PrimeirosPassos\\Program.cs",
               "RelativeDocumentMoniker": "aula01PrimeirosPassos\\Program.cs",
@@ -45,6 +45,16 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-03T16:40:48.081Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1079,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         }

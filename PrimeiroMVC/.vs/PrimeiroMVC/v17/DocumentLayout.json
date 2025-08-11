@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\m.a.oliveira.junior\\Source\\Repos\\PrimeiroMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63F66098-CE40-421B-988C-D69972953D7B}|PrimeiroMVC\\PrimeiroMVC.csproj|c:\\users\\m.a.oliveira.junior\\source\\repos\\primeiromvc\\primeiromvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{63F66098-CE40-421B-988C-D69972953D7B}|PrimeiroMVC\\PrimeiroMVC.csproj|solutionrelative:primeiromvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{63F66098-CE40-421B-988C-D69972953D7B}|PrimeiroMVC\\PrimeiroMVC.csproj|c:\\users\\m.a.oliveira.junior\\source\\repos\\primeiromvc\\primeiromvc\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63F66098-CE40-421B-988C-D69972953D7B}|PrimeiroMVC\\PrimeiroMVC.csproj|solutionrelative:primeiromvc\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F66098-CE40-421B-988C-D69972953D7B}|PrimeiroMVC\\PrimeiroMVC.csproj|c:\\users\\m.a.oliveira.junior\\source\\repos\\primeiromvc\\primeiromvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F66098-CE40-421B-988C-D69972953D7B}|PrimeiroMVC\\PrimeiroMVC.csproj|solutionrelative:primeiromvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F66098-CE40-421B-988C-D69972953D7B}|PrimeiroMVC\\PrimeiroMVC.csproj|c:\\users\\m.a.oliveira.junior\\source\\repos\\primeiromvc\\primeiromvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63F66098-CE40-421B-988C-D69972953D7B}|PrimeiroMVC\\PrimeiroMVC.csproj|solutionrelative:primeiromvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{63F66098-CE40-421B-988C-D69972953D7B}|PrimeiroMVC\\PrimeiroMVC.csproj|c:\\users\\m.a.oliveira.junior\\source\\repos\\primeiromvc\\primeiromvc\\views\\produtos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -34,11 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\m.a.oliveira.junior\\Source\\Repos\\PrimeiroMVC\\PrimeiroMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PrimeiroMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\m.a.oliveira.junior\\Source\\Repos\\PrimeiroMVC\\PrimeiroMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PrimeiroMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T22:30:55.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Clientes.cshtml",
               "DocumentMoniker": "C:\\Users\\m.a.oliveira.junior\\Source\\Repos\\PrimeiroMVC\\PrimeiroMVC\\Views\\Produtos\\Clientes.cshtml",
               "RelativeDocumentMoniker": "PrimeiroMVC\\Views\\Produtos\\Clientes.cshtml",
@@ -46,12 +63,11 @@
               "RelativeToolTip": "PrimeiroMVC\\Views\\Produtos\\Clientes.cshtml",
               "ViewState": "AgIAAAoAAAAAAAAAAAAIwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-03T18:20:30.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T18:20:30.503Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Detalhes.cshtml",
               "DocumentMoniker": "C:\\Users\\m.a.oliveira.junior\\Source\\Repos\\PrimeiroMVC\\PrimeiroMVC\\Views\\Produtos\\Detalhes.cshtml",
               "RelativeDocumentMoniker": "PrimeiroMVC\\Views\\Produtos\\Detalhes.cshtml",
@@ -59,25 +75,24 @@
               "RelativeToolTip": "PrimeiroMVC\\Views\\Produtos\\Detalhes.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-03T18:12:48.456Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T18:12:48.456Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\m.a.oliveira.junior\\Source\\Repos\\PrimeiroMVC\\PrimeiroMVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "PrimeiroMVC\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\m.a.oliveira.junior\\Source\\Repos\\PrimeiroMVC\\PrimeiroMVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "PrimeiroMVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABcAAAAAAAAAAAAIwCMAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwCMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-03T18:06:24.907Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\m.a.oliveira.junior\\Source\\Repos\\PrimeiroMVC\\PrimeiroMVC\\Views\\Produtos\\Index.cshtml",
               "RelativeDocumentMoniker": "PrimeiroMVC\\Views\\Produtos\\Index.cshtml",
@@ -85,25 +100,24 @@
               "RelativeToolTip": "PrimeiroMVC\\Views\\Produtos\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-03T18:01:10.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T18:01:10.284Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ProdutosController.cs",
               "DocumentMoniker": "C:\\Users\\m.a.oliveira.junior\\Source\\Repos\\PrimeiroMVC\\PrimeiroMVC\\Controllers\\ProdutosController.cs",
               "RelativeDocumentMoniker": "PrimeiroMVC\\Controllers\\ProdutosController.cs",
               "ToolTip": "C:\\Users\\m.a.oliveira.junior\\Source\\Repos\\PrimeiroMVC\\PrimeiroMVC\\Controllers\\ProdutosController.cs",
               "RelativeToolTip": "PrimeiroMVC\\Controllers\\ProdutosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-03T17:45:52.818Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\m.a.oliveira.junior\\Source\\Repos\\PrimeiroMVC\\PrimeiroMVC\\Program.cs",
               "RelativeDocumentMoniker": "PrimeiroMVC\\Program.cs",
@@ -111,8 +125,17 @@
               "RelativeToolTip": "PrimeiroMVC\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T17:40:26.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T17:40:26.679Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1079,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         }
