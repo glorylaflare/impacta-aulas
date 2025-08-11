@@ -1,0 +1,139 @@
+﻿@* @model IEnumerable<StripeApiProto.Models.Reservation>
+
+@{
+    ViewData["Title"] = "Dashboard Financeiro";
+    var totalReservas = Model.Count();
+    var totalReceita = Model.Sum(r => r.TotalPrice);
+    var reservasConfirmadas = Model.Count(r => r.IsConfirmed);
+    var reservasPendentes = Model.Count(r => !r.IsConfirmed);
+}
+
+<h1>Dashboard Financeiro</h1>
+
+<div class="row mb-4">
+    <div class="col-md-3">
+        <div class="card text-bg-primary mb-3">
+            <div class="card-body">
+                <h5 class="card-title">Total de Reservas</h5>
+                <p class="card-text display-6">@totalReservas</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="card text-bg-success mb-3">
+            <div class="card-body">
+                <h5 class="card-title">Receita Total</h5>
+                <p class="card-text display-6">@totalReceita.ToString("C")</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="card text-bg-info mb-3">
+            <div class="card-body">
+                <h5 class="card-title">Confirmadas</h5>
+                <p class="card-text display-6">@reservasConfirmadas</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="card text-bg-warning mb-3">
+            <div class="card-body">
+                <h5 class="card-title">Pendentes</h5>
+                <p class="card-text display-6">@reservasPendentes</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-8">
+        <canvas id="reservasChart"></canvas>
+    </div>
+    <div class="col-md-4">
+        <canvas id="receitaChart"></canvas>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        // Gráfico de Reservas Confirmadas vs Pendentes
+        var ctx1 = document.getElementById('reservasChart').getContext('2d');
+        new Chart(ctx1, {
+            type: 'doughnut',
+            data: {
+                labels: ['Confirmadas', 'Pendentes'],
+                datasets: [{
+                    data: [@reservasConfirmadas, @reservasPendentes],
+                    backgroundColor: ['#198754', '#ffc107']
+                }]
+            },
+            options: {
+                plugins: {
+                    title: {
+                        display: true,
+                        text: 'Reservas Confirmadas x Pendentes'
+                    }
+                }
+            }
+        });
+
+        // Gráfico de Receita Mensal (dummy, pode ser ajustado para dados reais)
+        var ctx2 = document.getElementById('receitaChart').getContext('2d');
+        new Chart(ctx2, {
+            type: 'bar',
+            data: {
+                labels: ['Jan', 'Fev', 'Mar', 'Abr', 'Mai', 'Jun', 'Jul', 'Ago', 'Set', 'Out', 'Nov', 'Dez'],
+                datasets: [{
+                    label: 'Receita',
+                    data: [@string.Join(",", Enumerable.Repeat(totalReceita/12, 12).Select(x => x.ToString("F2", System.Globalization.CultureInfo.InvariantCulture)))],
+                    backgroundColor: '#0d6efd'
+                }]
+            },
+            options: {
+                plugins: {
+                    title: {
+                        display: true,
+                        text: 'Receita Mensal (Exemplo)'
+                    }
+                }
+            }
+        });
+    </script>
+}
+
+<!-- Tabela de reservas (mantida para referência) -->
+<p>
+    <a asp-action="Create">Criar Nova Reserva</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Title)</th>
+            <th>@Html.DisplayNameFor(model => model.Description)</th>
+            <th>@Html.DisplayNameFor(model => model.CoverImage)</th>
+            <th>@Html.DisplayNameFor(model => model.IsConfirmed)</th>
+            <th>@Html.DisplayNameFor(model => model.Client)</th>
+            <th>@Html.DisplayNameFor(model => model.TotalPrice)</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>@Html.DisplayFor(modelItem => item.Title)</td>
+            <td>@Html.DisplayFor(modelItem => item.Description)</td>
+            <td>@Html.DisplayFor(modelItem => item.CoverImage)</td>
+            <td>@Html.DisplayFor(modelItem => item.IsConfirmed)</td>
+            <td>@Html.DisplayFor(modelItem => item.Client.Id)</td>
+            <td>@Html.DisplayFor(modelItem => item.TotalPrice)</td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+ *@
