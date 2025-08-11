@@ -1,0 +1,186 @@
+# Ignore build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+TestResults/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vs/
+*.vscode/
+*.dbmdl
+*.pdb
+*.cache
+*.log
+*.tmp
+*.bak
+*.ncb
+*.opendb
+*.VC.db
+*.VC.opendb
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.dbmdl
+*.pdb
+*.cache
+*.log
+*.tmp
+*.bak
+*.ncb
+*.opendb
+*.VC.db
+*.VC.opendb
+TestResults/
+[Bb]uild/
+[Ll]og/
+bin/
+obj/
+publish/
+out/
+*.vspscc
+*.vssscc
+*.vsscc
+*.scc
+*.psess
+*.vsp
+*.vsix
+*.vsixmanifest
+*.vsmdi
+*.dbmdl
+*.dbproj
+*.jfm
+*.ldf
+*.mdf
+*.ndj
+*.sql
+*.cachefile
+*.sdf
+*.vssscc
+*.vsscc
+*.scc
+*.psess
+*.vsp
+*.vsix
+*.vsixmanifest
+*.vsmdi
+*.dbmdl
+*.dbproj
+*.jfm
+*.ldf
+*.mdf
+*.ndj
+*.sql
+*.cachefile
+*.sdf
+
+# Rider
+.idea/
+*.DotSettings.user
+
+# VS Code
+.vscode/
+
+# ReSharper
+_ReSharper*/
+*.DotSettings
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+
+# Test/coverage
+coverage/
+*.coverage
+*.coveragexml
+
+# Node.js (caso use em algum projeto)
+node_modules/
+
+# Ambiente
+.env
+
+# Docker
+docker-compose.override.yml
+
+# OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Outros arquivos temporários
+*.swp
+*.swo
+*.tmp
+*.bak
+*.old
+*.orig
+
+# Arquivos de publicação
+publish/
+out/
+
+# Ignorar arquivos de configuração locais
+appsettings.*.json
+
+
+# Ignore NuGet packages
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+
+# Ignore Rider and JetBrains IDE files
+.idea/
+*.DotSettings.user
+
+# Ignore Visual Studio Code workspace settings
+.vscode/
+
+# Ignore ReSharper files
+_ReSharper*/
+*.DotSettings
+
+# Ignore publish output
+publish/
+out/
+
+# Ignore test coverage results
+coverage/
+*.coverage
+*.coveragexml
+
+# Ignore node_modules (if using Node.js in project)
+node_modules/
+
+# Ignore environment files
+.env
+
+# Ignore Docker files
+docker-compose.override.yml
+
+# Ignore OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Ignore other common files
+*.swp
+*.swo
+*.orig
+*.rej
+*.bak
+*.tmp
+*.old
+*.log
